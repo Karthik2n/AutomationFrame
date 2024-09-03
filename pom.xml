@@ -37,10 +37,6 @@
     <scope>test</scope>
 </dependency>
 
-  	<dependency>
-  		<groupId>TYSS</groupId>
-  		<artifactId>Org.Sample.RestAPI</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   </dependencies>
 </project>
