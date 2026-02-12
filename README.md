@@ -126,8 +126,3 @@ They include:
 - Improves test coverage
 - Generates clear and actionable reports
 
----
-
-## 📜 License
-
-This project is open-source and free to use for automation testing learning and implementation.
