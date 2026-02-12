@@ -38,7 +38,7 @@ AutomationFrame/
 
 ---
 
-## 🛠 Core Features
+##  Core Features
 
 ✔ Cross-browser support  
 ✔ Page Object Model (POM) design  
